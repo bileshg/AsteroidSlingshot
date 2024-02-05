@@ -50,3 +50,7 @@ You can customize various constants within the game to experiment with different
 
 - Python 3.x
 - Pygame
+
+## Acknowledgments
+
+Thanks to [TechWithTim](https://www.youtube.com/@TechWithTim) for the inspiration and the tutorial on which this project is based.
